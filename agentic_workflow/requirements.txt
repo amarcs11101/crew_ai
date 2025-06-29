@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+dotenv 
+pydantic
+
+crewai>=0.28.8
+crewai-tools==0.1.6
+langchain>=0.1.20
+langchain-openai
+pydantic>=2.6

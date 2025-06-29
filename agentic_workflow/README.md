@@ -1,0 +1,2 @@
+pip install langchain_groq
+pip install crewai_tools

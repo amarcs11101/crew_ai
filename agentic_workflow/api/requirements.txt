@@ -1,0 +1,4 @@
+fastapi
+dotenv
+uvicorn 
+crewai>=0.28.8
